@@ -1,0 +1,3 @@
+- [ ] try  dropout
+- [ ] fading dropout
+- [ ] 
